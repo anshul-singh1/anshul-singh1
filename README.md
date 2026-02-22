@@ -8,8 +8,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech in Computer Science (2020–2024) from **MNIT Jaipur**  
 - 🐍 Python | 🤖 Artificial Intelligence / Machine Learning | 📈 Data Science
+- 🎓 B.Tech in Computer Science (2020–2024) from **MNIT Jaipur**  
 
 ---
 
@@ -38,16 +38,6 @@
 
 </p>
 
-
----
-
-## 📂 Featured Projects
-
-- 🤖 **Doctors Handwritten Prescription Recognition** – Using Deep Learning to convert handwritten text to structured data  
-- 📝 **Blog Management System** – Built with MERN Stack, featuring authentication and Markdown editor  
-- 🏥 **Hospital Management System** – Streamlining patient and doctor data with role-based access  
-
----
 
 ## 🤝 Let’s Connect!
 
