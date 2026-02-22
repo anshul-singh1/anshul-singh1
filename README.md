@@ -1,10 +1,4 @@
-<h1 align="center">Hey 👋, I'm Anshul</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Curiosity+to+Creativity;Tech+Learner+and+Explorer" alt="Typing SVG" />
-</p>
-
----
+<h1 align="center">Hi, I'm Anshul 👋</h1>
 
 ## 🧑‍💻 About Me
 
@@ -12,8 +6,6 @@
 - 🎓 B.Tech in Computer Science (2020–2024) from **MNIT Jaipur**  
 
 ---
-
-## 🛠️ Tech Stack
 
 <p align="center">
   
@@ -39,12 +31,24 @@
 </p>
 
 
+---
+
 ## 🤝 Let’s Connect!
 
 <p>
   <a href="https://www.linkedin.com/in/anshul-singh-081a40200/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ansh26748ar@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+## 🔗 Previous GitHub Account
+
+I previously worked on projects under this account:  
+👉 https://github.com/ansh26748ar
+
+Due to login issues, I’ve moved to this new profile.  
+You can explore my earlier work there.
 
 ---
 
