@@ -1,37 +1,9 @@
 <h1 align="center">Hi, I'm Anshul 👋</h1>
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
-- 🐍 Python | 🤖 Artificial Intelligence / Machine Learning | 📈 Data Science
+- 🐍 Python | LangChain | AI/ML | 📈 Data Science
 - 🎓 B.Tech in Computer Science (2020–2024) from **MNIT Jaipur**  
-
----
-
-<p align="center">
-  
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/Deep Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-8E44AD?style=flat&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative AI-FF4C4C?style=flat&logo=openai&logoColor=white" />
-
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
- 
-
-</p>
-
-
----
 
 ## 🤝 Let’s Connect!
 
